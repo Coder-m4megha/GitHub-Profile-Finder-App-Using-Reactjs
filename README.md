@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please create an issue or submit a pull request.
 
 ## Live Demo
-Megha Yadav
+[ diployed link ](https://git-hub-profile-finder-app-usi-git-595bb7-megha-yadavs-projects.vercel.app)
 ---
 
 ## Author
